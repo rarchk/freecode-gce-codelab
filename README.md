@@ -13,5 +13,5 @@ We start our codelab by an [interactive tutorial](https://console.cloud.google.c
 
 
 ## Resources
-1. You can ask your queries at our [Gitter Channel]()  
-1. [Presentation Source]() 
+1. You can ask your queries at our [Gitter Channel](https://gitter.im/fcc-hyd/cloud#computing)  
+1. [Presentation Source](https://speakerdeck.com/rarchk/freecode-camp-gce-hands-on-session) 
